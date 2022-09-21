@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\ISMAIL\OneDrive\Bureau\Damelin\3A\PRG\Assigment\Cal.cs" Link="Cal.cs" />
+  </ItemGroup>
+
+</Project>
